@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working on learning to make better designs on web applications.
+- 🌱 I’m currently learning Full Stack Web Development.
+- 👯 I’m looking to collaborate on making exciting fun websites.
+- 📫 How to reach me: Contact me at my email --> mailto:rahulagarwala2002dev@gmail.com or connect with me on linkedin --> https://www.linkedin.com/in/rahul-agarwal-635593203/
+- ⚡ Fun fact: I have lived in 8 different cities and have changed schools 9 times in 12 years.
 
 <!--
 **RahulSuperDev/RahulSuperDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
