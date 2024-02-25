@@ -1,11 +1,6 @@
 ![MasterHead](https://github.com/rahulAgdev/rahulAgDev/assets/97039362/75d5e843-ae69-4e61-b21a-05afd328911a)
 <h1 align="center">👋Rahul Agarwal</h1>
-<h3 align="center">A passionate Fullstack Web Developer and UI/UX Designer.</h3>
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=rahulAgdev&theme=dark&hide_border=true&hide_total_contributions=true&hide_longest_streak=true" />
-  </a>
-</p>
+<
 <!--  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulagdev&label=Profile%20views&color=0e75b6&style=flat" alt="rahulagdev" /> </p> -->
 <br>
 - 🔭 I’m currently working on **Dynamic React Projects**
