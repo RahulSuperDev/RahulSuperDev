@@ -6,7 +6,6 @@
     <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=rahulAgdev&theme=dark&hide_border=true&hide_total_contributions=true&hide_longest_streak=true" />
   </a>
 </p>
-<img align="right" width="400" alt="Coding" src="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif">
 <!--  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulagdev&label=Profile%20views&color=0e75b6&style=flat" alt="rahulagdev" /> </p> -->
 <br>
 - 🔭 I’m currently working on **Dynamic React Projects**
